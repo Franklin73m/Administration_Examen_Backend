@@ -20,6 +20,7 @@ use App\Http\Controllers\Api\TestCenterController;
 use App\Http\Controllers\Api\UserController;
 use Illuminate\Support\Facades\Route;
 
+// com_api
 /*
 |--------------------------------------------------------------------------
 | API Routes
